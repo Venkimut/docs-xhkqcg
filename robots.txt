@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-wbkvaj.theriverbedandbreakfast.com.au/sitemap.xml
